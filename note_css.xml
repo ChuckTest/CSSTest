@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <?xml-stylesheet type="text/css" href="note.css"?>
+<!--note是xml文件中的根元素-->
 <note>
+  <!--to, from, heading 以及 body是xml文件的4个子元素-->
   <to>George</to>
   <from>John</from>
   <heading>Reminder</heading>

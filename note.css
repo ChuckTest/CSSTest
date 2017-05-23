@@ -1,8 +1,11 @@
+/*note是xml文件中的根元素*/
 note
 {
     font-family: Verdana, Arial;
     margin-left: 30px;
 }
+
+/*to, from, heading 以及 body是xml文件的4个子元素*/
 to
 {
     font-size: 28px;

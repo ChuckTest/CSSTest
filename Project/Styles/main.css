@@ -3,11 +3,11 @@ html {
     color: black;
 }
 
-body{
+body {
     background-color: #b0c4de;
 }
 
-h1{
+h1 {
     background-color: green;
 }
 
@@ -28,6 +28,10 @@ p {
 }
 
 /*class selector*/
-.center{
+.center {
     text-align: center;
+}
+
+.paragraph2 {
+    background-color: gray;
 }

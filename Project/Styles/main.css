@@ -7,12 +7,18 @@ body{
     background-color: #b0c4de;
 }
 
-p {
-    color: blue;
+h1{
+    background-color: green;
 }
 
 h2 {
-    color: silver;
+    color: yellow;
+    background-color: transparent;
+}
+
+p {
+    color: blue;
+    background-color: pink;
 }
 
 /*id selector*/

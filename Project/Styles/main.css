@@ -8,12 +8,19 @@ body {
 }
 
 h1 {
+    border-left-color: red;
     background-color: green;
 }
 
 h2 {
+    border-left-color: orange;
     color: yellow;
-    background-color: transparent;
+    background-color: darkgreen;
+}
+
+h1, h2 {
+    border-left-style: solid;
+    border-left-width: 15px;
 }
 
 p {

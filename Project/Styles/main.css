@@ -5,7 +5,10 @@ html {
 
 body {
     background-image: url("../Images/paper.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
     background-color: #b0c4de;
+    margin-right: 200px;
 }
 
 h1, h2 {

@@ -30,6 +30,7 @@ h2 {
 p {
     color: blue;
     background-color: pink;
+    text-indent: 50px;
 }
 
 /*id selector*/

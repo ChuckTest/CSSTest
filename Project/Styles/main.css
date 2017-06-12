@@ -31,6 +31,7 @@ p {
     color: blue;
     background-color: pink;
     text-indent: 50px;
+    text-align: justify;
 }
 
 /*id selector*/

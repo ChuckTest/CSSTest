@@ -48,3 +48,15 @@ p {
 .paragraph2 {
     background-color: gray;
 }
+
+a:link{
+    color:blue;}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: black;
+}
